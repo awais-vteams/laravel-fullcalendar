@@ -1,4 +1,4 @@
-# Laravel 8 Helper for fullcalendar.io
+# Laravel 6/7/8 Helper for fullcalendar.io
 
 [![Latest Stable Version](https://poser.pugx.org/asdfx/laravel-fullcalendar/v)](//packagist.org/packages/asdfx/laravel-fullcalendar)
 [![Total Downloads](https://poser.pugx.org/asdfx/laravel-fullcalendar/downloads)](//packagist.org/packages/asdfx/laravel-fullcalendar)
