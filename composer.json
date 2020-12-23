@@ -1,7 +1,8 @@
 {
     "name": "awais-vteams/laravel-fullcalendar",
-    "description": "Laravel helper for FullCalendar.io",
+    "description": "Laravel 6/7/8 helper for FullCalendar.io",
     "license": "MIT",
+    "keywords": ["laravel", "fullcalendar.io", "laravel 8", "full calendar", "laravel full calendar", "calendar"],
     "authors": [
         {
             "name": "Alex Mills",
